@@ -1,0 +1,10 @@
+setup.py
+myproject.egg-info/PKG-INFO
+myproject.egg-info/SOURCES.txt
+myproject.egg-info/dependency_links.txt
+myproject.egg-info/top_level.txt
+project/__init__.py
+project/main.py
+project/utils.py
+project/scenarios/__init__.py
+project/scenarios/scenario_1.py
